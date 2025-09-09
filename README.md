@@ -27,7 +27,7 @@ A lightweight batch script to clean up Windows by automatically deleting tempora
 ***🚀 Usage***
 
 - Download the batch file or clone the repo:
-- git clone https://github.com/your-username/Windows-PC-Cleanup-Script.git
+- git clone https://github.com/DXDDEVIL/Windows-PC-Temp-Files-Cleanup-Script.git
 - Right-click the script and select Run as Administrator
 - Follow the on-screen prompts
 - Done ✅ Your PC will be cleaner and may run faster
